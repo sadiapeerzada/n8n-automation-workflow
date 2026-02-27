@@ -42,7 +42,7 @@ The chatbot is built entirely inside **n8n** using modular workflow nodes.
 
 ---
 
-### ⚡ Workflow 1 Execution in Action
+### ⚡ Workflow 2 Chatbot LLM Execution in Action
 ![Execution](execution.png)
 
 > Live execution view demonstrating how the chatbot processes a query step-by-step, including node execution states and response generation.
