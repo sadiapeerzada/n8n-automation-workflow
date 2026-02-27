@@ -37,23 +37,21 @@ The chatbot is built entirely inside **n8n** using modular workflow nodes.
 
 ### 🖥 Workflow 1 – Main Chatbot Flow
 
-![Workflow 1](./assets/workflow1.png)
-
+![Workflow 1](workflow1.png)
 > Primary chatbot automation pipeline inside n8n, including trigger, AI node, processing logic, and response output configuration.
 
 ---
 
 ### ⚡ Workflow 1 Execution in Action
-
-![Workflow 1 Execution](./assets/workflow1-execution.png)
+![Execution](execution.png)
 
 > Live execution view demonstrating how the chatbot processes a query step-by-step, including node execution states and response generation.
 
 ---
 
-### 🔗 API & AI Node Configuration
+### 🔗 In Action
 
-![AI Node Config](./assets/ai-node-config.png)
+![In Action](inaction.png)
 
 > Configuration panel for the AI/LLM integration node showing API credentials and prompt structure.
 
