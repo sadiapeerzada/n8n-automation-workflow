@@ -1,11 +1,11 @@
-# 🤖 n8n-Powered Q&A Chatbot
+#  n8n-Powered Q&A Chatbot
 
 An intelligent Question & Answer chatbot built using n8n workflow automation.  
 This chatbot processes natural language queries and generates structured, context-aware responses using automated workflow orchestration and AI integration.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 The **n8n Q&A Chatbot** is a workflow-driven conversational AI system that:
 
@@ -126,12 +126,12 @@ docker run -it --rm \
 + Test workflow execution
 + Activate the workflow
 
-## 🔐 Environment Variables (Optional)
+##  Environment Variables (Optional)
 ```bash
 AI_API_KEY=your_api_key_here
 DB_CONNECTION_STRING=your_database_url
 ```
-## 🧪 Example Query
+## Example Query
 + Input:
 What is machine learning?
 
@@ -147,7 +147,7 @@ Machine learning is a subset of artificial intelligence that enables systems to 
 + Frontend chat UI
 + Deployment on cloud (Railway / Render / VPS)
 
-## 📌 Why n8n?
+## Why n8n?
 
 + Visual workflow builder
 + No-code / low-code flexibility
@@ -155,7 +155,7 @@ Machine learning is a subset of artificial intelligence that enables systems to 
 + Rapid prototyping
 + Highly customizable automation
 
-## 🤝 Contributing
+## Contributing
 
 + Contributions are welcome.
 + Fork the repository
