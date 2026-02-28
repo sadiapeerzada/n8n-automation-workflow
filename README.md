@@ -18,11 +18,11 @@ The **n8n Q&A Chatbot** is a workflow-driven conversational AI system that:
 
 ---
 
-## 🧠 Workflow Architecture
+##  Workflow Architecture
 
 The chatbot is built entirely inside **n8n** using modular workflow nodes.
 
-### 🔄 Core Pipeline
+###  Core Pipeline
 
 1. Trigger (Webhook / Chat / Manual)
 2. Input Processing
@@ -33,9 +33,9 @@ The chatbot is built entirely inside **n8n** using modular workflow nodes.
 
 ---
 
-## 📸 Workflow in Action
+## Workflow in Action
 
-### 🖥 Workflow 1 – Main Chatbot Flow
+###  Workflow 1 – Main Chatbot Flow
 
 ![Workflow 1](workflow1.png)
 > Primary chatbot automation pipeline inside n8n, including trigger, AI node, processing logic, and response output configuration.
